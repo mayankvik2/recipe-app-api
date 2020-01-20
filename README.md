@@ -1,2 +1,3 @@
 # recipe-app-api
-Scripts for development of recipe app api
+Dhango application for food recipe app api.Backened development completed
+
